@@ -1,0 +1,21 @@
+.fancyTitle
+{
+	text-align: center;
+	text-decoration: underline;
+}
+
+#gradient
+{
+	background: -webkit-linear-gradient(left, red, green, orange, blue);
+}
+
+.centerTitle
+{
+	text-align: center;
+	text-decoration: underline;
+}
+
+#normal
+{
+	pointer-events: none;
+}
